@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Brayanvp
 - 👀 I’m interested in ...clonar tarjetas 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...a utilizar termux 
+
 - 📫 How to reach me ...
 
 <!---
